@@ -122,10 +122,10 @@ function About() {
                 <div className="bg-white absolute rounded-full p-0.5 md:p-1 top-0 transform -translate-y-1/2 right-0"></div>
             </div>
             <ul className=" mt-4 leading-tight tracking-tight text-sm md:text-base w-5/6 md:w-3/4 emoji-list">
-                <li className=" list-pc"><span className=" font-medium">Cyber Forensic student skilled in ethical hacking, and cyber crime investigation, seeking opportunities for internships.</span>(Hit me up <a className='text-underline' href='mailto:navaneethms182@gmail.com'><u>navaneethm182@gmail.com</u></a>)</li>
-                <li className=" mt-3 list-building">I'm deeply passionate about cybersecurity, as seen in my projects like Passlord and keylogger.</li>
+                <li className=" list-pc"><span className=" font-medium">Cyber Forensic student skilled in ethical hacking,coding and cyber crime investigation, seeking opportunities for internships.</span>(Hit me up <a className='text-underline' href='mailto:navaneethms182@gmail.com'><u>navaneethm182@gmail.com</u></a>)</li>
+                <li className=" mt-3 list-building">I'm deeply passionate about cybersecurity, as seen in my projects like <a className='text-underline' href='https://github.com/navnee1h/passlord'><u>Passlord</u></a> and keylogger.</li>
                 <li className=" mt-3 list-time">Collaboration is key for me—I thrive on networking and learning from others, whether through internships or volunteering.</li>
-                <li className=" mt-3 list-star">I'm committed to continuous growth, attending workshops and engaging in tech communities like TinkerSpace.</li>
+                <li className=" mt-3 list-star">I'm committed to continuous growth, attending workshops and engaging in tech communities like TinkerSpace.                                                                                               </li>
             </ul>
         </>
     )
@@ -144,7 +144,7 @@ function Education() {
                 
                 <li className="list-disc">
                     <div className=" text-lg md:text-xl text-left font-bold leading-tight">
-                        School of technology and applied sciences, edappally
+                        MahatmaGandhi University
                     </div>
                     <div className=" text-sm text-gray-400 mt-0.5">2023 - present</div>
                     <div className=" text-sm md:text-base">BSc Cyber Forensic</div>
@@ -249,6 +249,33 @@ function Projects() {
                 "Developed a Linux keylogger with Discord integration for educational awareness, showcasing cybersecurity skills. ",
             ],
             domains: ["Python", "Keylogger", "Webhooks"]
+        },
+        {
+            name: "Reverse IP Lookup",
+            date: "Aug 2022 - May 2023",
+            link: "https://github.com/navnee1h/reverse_ip",
+            description: [
+                "Find another websites hosted on same server! ",
+            ],
+            domains: ["Python", "ip", "lookup"]
+        },
+        {
+            name: "Local-Gallery",
+            date: "May 2024 - May 2024",
+            link: "https://github.com/navnee1h/Local-Gallery",
+            description: [
+                "Helps to host images in anyformat to localhost like a remote gallery.",
+            ],
+            domains: ["js", "website", "gallery","server"]
+        },
+        {
+            name: "autohamster",
+            date: "Aug 2024 - Aug 2024",
+            link: "https://github.com/navnee1h/autohamster",
+            description: [
+                "Developed a Hamster kombat decision maker! ",
+            ],
+            domains: ["Python", "server", "hack","hamsterkombat"]
         },
     ];
 

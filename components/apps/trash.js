@@ -10,11 +10,11 @@ export class Trash extends Component {
                 icon: "./themes/filetypes/php.png"
             },
             {
-                name: "Angular.js",
+                name: "Scrap.js",
                 icon: "./themes/filetypes/js.png"
             },
             {
-                name: "node_modules",
+                name: "payload",
                 icon: "./themes/Yaru/system/mc-home-logo.png"
             },
 
