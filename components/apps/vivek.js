@@ -126,6 +126,7 @@ function About() {
                 <li className=" mt-3 list-building">I’m passionate about cybersecurity and have worked on projects like <a className='text-underline' href='https://github.com/navnee1h/passlord'><u>Passlord</u></a> and keylogger.</li>
                 <li className=" mt-3 list-time">I enjoy collaborating, networking, and learning from others through internships, volunteering, and tech communities like TinkerSpace.</li>
                 <li className=" mt-3 list-star">I'm committed to continuous growth, attending workshops and staying engaged in the cybersecurity field.</li>
+                <li><span> ‎ </span></li>
             </ul>
         </>
     )
