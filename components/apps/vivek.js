@@ -60,7 +60,7 @@ export class AboutVivek extends Component {
                 </div>
                 <div id="education" tabIndex="0" onFocus={this.changeScreen} className={(this.state.active_screen === "education" ? " bg-ub-orange bg-opacity-100 hover:bg-opacity-95" : " hover:bg-gray-50 hover:bg-opacity-5 ") + " w-28 md:w-full md:rounded-none rounded-sm cursor-default outline-none py-1.5 focus:outline-none duration-100 my-0.5 flex justify-start items-center pl-2 md:pl-2.5"}>
                     <img className=" w-3 md:w-4" alt="navnee1h' education" src="./themes/Yaru/status/education.svg" />
-                    <span className=" ml-1 md:ml-2 text-gray-50 ">Education</span>
+                    <span className=" ml-1 md:ml-2 text-gray-50 ">Certifications</span>
                 </div>
                 <div id="skills" tabIndex="0" onFocus={this.changeScreen} className={(this.state.active_screen === "skills" ? " bg-ub-orange bg-opacity-100 hover:bg-opacity-95" : " hover:bg-gray-50 hover:bg-opacity-5 ") + " w-28 md:w-full md:rounded-none rounded-sm cursor-default outline-none py-1.5 focus:outline-none duration-100 my-0.5 flex justify-start items-center pl-2 md:pl-2.5"}>
                     <img className=" w-3 md:w-4" alt="navnee1h' skills" src="./themes/Yaru/status/skills.svg" />
@@ -114,7 +114,7 @@ function About() {
                 <img className="w-full" src="./images/logos/bitmoji.png" alt="Vivek Patel Logo" />
             </div>
             <div className=" mt-4 md:mt-8 text-lg md:text-2xl text-center px-1">
-                <div>My name is <span className="font-bold">Navaneeth M S</span> ,</div>
+                <div>My name is <span className="font-bold">Navaneeth M S</span>,</div>
                 <div className="font-normal ml-1">I'm a <span className="text-pink-600 font-bold">CyberSecurity Researcher!</span></div>
             </div>
             <div className=" mt-4 relative md:my-8 pt-px bg-white w-32 md:w-48">
@@ -122,10 +122,10 @@ function About() {
                 <div className="bg-white absolute rounded-full p-0.5 md:p-1 top-0 transform -translate-y-1/2 right-0"></div>
             </div>
             <ul className=" mt-4 leading-tight tracking-tight text-sm md:text-base w-5/6 md:w-3/4 emoji-list">
-                <li className=" list-pc"><span className=" font-medium">Cyber Forensic student skilled in ethical hacking,coding and cyber crime investigation, seeking opportunities for internships.</span>(Hit me up <a className='text-underline' href='mailto:navaneethms182@gmail.com'><u>navaneethm182@gmail.com</u></a>)</li>
-                <li className=" mt-3 list-building">I'm deeply passionate about cybersecurity, as seen in my projects like <a className='text-underline' href='https://github.com/navnee1h/passlord'><u>Passlord</u></a> and keylogger.</li>
-                <li className=" mt-3 list-time">Collaboration is key for me—I thrive on networking and learning from others, whether through internships or volunteering.</li>
-                <li className=" mt-3 list-star">I'm committed to continuous growth, attending workshops and engaging in tech communities like TinkerSpace.                                                                                               </li>
+                <li className="list-pc"><span className="font-medium">I'm a Cyber Forensics student with skills in ethical hacking, coding, and cybercrime investigation, actively seeking internship opportunities.</span><br />Hit me up <a className="text-underline" href="mailto:navaneethm182@gmail.com"><u>navaneethm182@gmail.com</u></a></li>
+                <li className=" mt-3 list-building">I’m passionate about cybersecurity and have worked on projects like <a className='text-underline' href='https://github.com/navnee1h/passlord'><u>Passlord</u></a> and keylogger.</li>
+                <li className=" mt-3 list-time">I enjoy collaborating, networking, and learning from others through internships, volunteering, and tech communities like TinkerSpace.</li>
+                <li className=" mt-3 list-star">I'm committed to continuous growth, attending workshops and staying engaged in the cybersecurity field.</li>
             </ul>
         </>
     )
@@ -134,28 +134,42 @@ function Education() {
     return (
         <>
             <div className=" font-medium relative text-2xl mt-2 md:mt-4 mb-4">
-                Education
+                Certifications
                 <div className="absolute pt-px bg-white mt-px top-full w-full">
                     <div className="bg-white absolute rounded-full p-0.5 md:p-1 top-0 transform -translate-y-1/2 left-full"></div>
                     <div className="bg-white absolute rounded-full p-0.5 md:p-1 top-0 transform -translate-y-1/2 right-full"></div>
                 </div>
             </div>
             <ul className=" w-10/12  mt-4 ml-4 px-0 md:px-1">
-                
                 <li className="list-disc">
                     <div className=" text-lg md:text-xl text-left font-bold leading-tight">
-                        MahatmaGandhi University
+                        Certified AppSec Practitioner (CAP)
                     </div>
-                    <div className=" text-sm text-gray-400 mt-0.5">2023 - present</div>
-                    <div className=" text-sm md:text-base">BSc Cyber Forensic</div>
+                    <div className=" text-sm text-gray-400 mt-0.5">Jan 2025</div>
+                    <div className=" text-sm md:text-base">The SecOps Group</div>
                 </li>
                 <li className="list-disc mt-5">
                     <div className=" text-lg md:text-xl text-left font-bold leading-tight">
-                        Class 12<sup>th</sup>
+                        Certified Network Security Practitioner (CNSP)
                     </div>
-                    <div className=" text-sm text-gray-400 mt-0.5">2021 - 2023</div>
-                    <div className=" text-sm md:text-base">Bio science</div>
+                    <div className=" text-sm text-gray-400 mt-0.5">Jan 2025</div>
+                    <div className=" text-sm md:text-base">The SecOps Group</div>
                 </li>
+                <li className="list-disc mt-6">
+                    <div className=" text-lg md:text-xl text-left font-bold leading-tight">
+                        Certified Cyber Security Analyst (C3SA)
+                    </div>
+                    <div className=" text-sm text-gray-400 mt-0.5">Jul 2024</div>
+                    <div className=" text-sm md:text-base">CyberWarFare Labs</div>
+                </li>
+                <li className="list-disc mt-7">
+                    <div className=" text-lg md:text-xl text-left font-bold leading-tight">
+                        Google Cybersecurity Professional Certificate
+                    </div>
+                    <div className=" text-sm text-gray-400 mt-0.5">May 2024</div>
+                    <div className=" text-sm md:text-base">Google</div>
+                </li>
+
             </ul>
         </>
     )
@@ -172,16 +186,22 @@ function Skills() {
             </div>
             <ul className=" tracking-tight text-sm md:text-base w-10/12 emoji-list">
                 <li className=" list-arrow text-sm md:text-base mt-4 leading-tight tracking-tight">
-                    <div>Skilled in <strong className="text-ubt-gedit-orange">Cyber crime investigation,ethical hacking, networking, and Wi-Fi penetration testing.</strong></div>
+                    <div>Specialized in <strong className="text-ubt-gedit-orange">cybercrime investigation, ethical hacking, and networking, with extensive experience using forensic tools.</strong></div>
                 </li>
                 <li className=" list-arrow text-sm md:text-base mt-4 leading-tight tracking-tight">
-               Experienced with forensic tools, Git, and steganography.
+               Experienced in web application security testing, penetration testing, and incident response.
                 </li>
                 <li className=" list-arrow text-sm md:text-base mt-4 leading-tight tracking-tight">
-               Proficient in utilizing RPI, Arduino, and password cracking techniques.
+               Knowledgeable in cryptography, encryption, and secure coding practices.
                 </li>
                 <li className=" list-arrow text-sm md:text-base mt-4 leading-tight tracking-tight">
-               Skilled in utilizing prompt engineering and Photoshop for various tasks.
+               Skilled in problem-solving through code.
+                </li>
+                <li className=" list-arrow text-sm md:text-base mt-4 leading-tight tracking-tight">
+               Active CTF player, cybersecurity workshop instructor, and mentor.
+                </li>
+                <li className=" list-arrow text-sm md:text-base mt-4 leading-tight tracking-tight">
+                    <div>Curious and committed to continuous learning,<strong className="text-ubt-gedit-orange">with a strong passion for exploring all aspects of cybersecurity.</strong></div>
                 </li>
                 <li className=" list-arrow text-sm md:text-base mt-4 leading-tight tracking-tight">
                     <div>Here are my most frequently used</div>
@@ -216,6 +236,7 @@ function Skills() {
                 <li className=" list-arrow text-sm md:text-base mt-4 leading-tight tracking-tight">
                     <span> And of course,</span> <img className=" inline ml-1" src="http://img.shields.io/badge/-Linux-0078D6?style=plastic&logo=linux&logoColor=ffffff" alt="navaneeth linux" /> <span>!</span>
                 </li>
+                <li><span> ‎ </span></li>
             </ul>
         </>
     )
@@ -234,12 +255,39 @@ function Projects() {
         },
         {
             name: "Instagram Phish",
-            date: "Jan 2024 - Jan 2024",
+            date: "Jan 2024",
             link: "https://github.com/navnee1h/instaphish-awareness-demonstration",
             description: [
             "Built a replica Instagram login page for educational purposes, showcasing phishing techniques. For educational use only",
             ],
             domains: ["HTML","CSS","Phishing","Hacking","Instagram"]
+        },
+        {
+            name: "pcap-pattern-find",
+            date: "Jan 2025",
+            link: "https://github.com/navnee1h/pcap-pattern-find",
+            description: [
+            "This Python script allows you to search for specific patterns within the layers of a .pcap file.",
+            ],
+            domains: ["wifi","pcap","ctf"]
+        },
+        {
+            name: "File Upload Server",
+            date: "Dec 2024",
+            link: "https://github.com/navnee1h/Python-file-upload-server",
+            description: [
+            "A simple Python-based file upload server with speed indicators.",
+            ],
+            domains: ["Python","Network","localhost"]
+        },
+        {
+            name: "ShutdownTrigger",
+            date: "Dec 2024",
+            link: "https://github.com/navnee1h/ShutdownTrigger",
+            description: [
+            "This project allows you to automatically shut down a Linux system when a specific webhook is triggered.",
+            ],
+            domains: ["Remote","Server","server-control"]
         },
         {
             name: "Keylogger",
