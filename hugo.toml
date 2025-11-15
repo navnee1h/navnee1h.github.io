@@ -1,5 +1,5 @@
 theme = "hugo-narrow"
-baseURL = "http://localhost:1313/"
+baseURL = "http://navnee1h.github.io/myblog/"
 languageCode = "en-us"
 title = "Navnee1h"
 defaultContentLanguage = "en"
@@ -116,3 +116,6 @@ defaultContentLanguageInSubdir = false
     weight = 50
     params.icon = "about"
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
