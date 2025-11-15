@@ -37,7 +37,7 @@ defaultContentLanguageInSubdir = false
   images = ["/images/og-default.avif"]
 
   [params.logo]
-    image = "https://navnee1h.github.io/myblog/images/logo.svg"
+    image = "/images/logo.svg"
     link = "/"     # This becomes https://navnee1h.github.io/myblog/ automatically
 
   [params.favicon]
@@ -95,25 +95,25 @@ defaultContentLanguageInSubdir = false
 
   [[menu.main]]
     name = "Posts"
-    url = "posts/"
+    url = "/posts/"
     weight = 10
     params.icon = "posts"
 
   [[menu.main]]
     name = "Categories"
-    url = "categories/"
+    url = "/categories/"
     weight = 20
     params.icon = "categories"
 
   [[menu.main]]
     name = "Archives"
-    url = "archives/"
+    url = "/archives/"
     weight = 40
     params.icon = "archive"
 
   [[menu.main]]
     name = "About"
-    url = "about/"
+    url = "/about/"
     weight = 50
     params.icon = "about"
 

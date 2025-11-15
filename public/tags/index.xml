@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Navnee1h</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://localhost:1313/myblog/tags/</link>
     <description>Recent content in Tags on Navnee1h</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 01 Jun 2025 10:00:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/myblog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Old</title>
-      <link>http://localhost:1313/tags/old/</link>
+      <link>http://localhost:1313/myblog/tags/old/</link>
       <pubDate>Sun, 01 Jun 2025 10:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/tags/old/</guid>
+      <guid>http://localhost:1313/myblog/tags/old/</guid>
       <description></description>
     </item>
   </channel>
