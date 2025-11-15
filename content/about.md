@@ -18,16 +18,22 @@ links:
 
 ## Navaneeth M S
 
-Hugo Narrow is a modern, clean, and minimal Hugo theme built with Tailwind CSS 4.0. It's designed as a blog theme with extensive customization options including multiple color schemes, dark mode support, and responsive design.
+### About Me
+Cyber forensics student interested in ethical hacking, digital investigations, and building security tools. I’ve worked with the Kerala Police Cyber Police Station and enjoy documenting my learning through projects, blogs, and workshops.
 
-## Technology Stack
+### Certifications
+- eJPT (INE)  
+- CAP & CNSP (The SecOps Group)  
+- Google Cybersecurity Certificate  
+- Certified Cyber Security Analyst (CW Labs)
 
-- Hugo Extended
-- Tailwind CSS 4.0
-- @tailwindcss/typography
-- Glightbox
-- fjGallery
-- Macy.js
-- gumshoe
-- ...
+### Skills
+Python, Bash, Linux, Networking, VA/PT, Web App Testing, Password Auditing  
+Tools: Metasploit, Burp Suite, Nmap, Wireshark, Netcat, PowerShell, Gobuster
 
+### Projects
+Passlord • Enterprise Password Audit System • Terminal Portfolio • FM Frequency Emulator
+
+### Links
+Email: navaneethms182@gmail.com  
+Portfolio • GitHub • LinkedIn
