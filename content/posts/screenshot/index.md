@@ -1,6 +1,6 @@
 +++
 date = '2025-11-15T21:45:01+05:30'
-draft = true
+draft = false
 title = 'screenshot'
 description = "Short summary..."
 image = "cover.jpeg"  
