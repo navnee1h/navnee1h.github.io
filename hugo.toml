@@ -38,10 +38,11 @@ defaultContentLanguageInSubdir = false
 
   [params.logo]
     image = "/images/logo.svg"
-    link = "/myblog"
+    link = "/"     # This becomes https://navnee1h.github.io/myblog/ automatically
 
   [params.favicon]
     svg = "/favicon.svg"
+
 
   # UI
   showThemeSwitch = true
