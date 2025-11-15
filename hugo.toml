@@ -1,0 +1,118 @@
+theme = "hugo-narrow"
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "Navnee1h"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+
+# permalinks
+[permalinks]
+  posts = "/posts/:slug/"
+  pages = "/:slug/"
+
+# pagination
+[pagination]
+  pagerSize = 6
+  path = "page"
+
+# taxonomies
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+# internationalization - list languages you want
+[languages]
+  [languages.en]
+    languageCode = "en-US"
+    languageName = "English"
+    weight = 1
+
+# site params (theme-specific)
+[params]
+  description = "Notes, tutorials and writeups"
+  keywords = ["cybersecurity","blog","pentest"]
+  defaultAuthor = "Navaneeth"
+  language = "en-US"
+  shortName = "MyBlog"
+  images = ["/images/og-default.avif"]
+
+  [params.logo]
+    image = "/images/logo.svg"
+    link = "/"
+
+  [params.favicon]
+    svg = "/favicon.svg"
+
+  # UI
+  showThemeSwitch = true
+  showDarkModeSwitch = true
+  showLanguageSwitch = false
+  languageSwitchMode = "dropdown"
+  stickyHeader = true
+  dock = "float"
+  colorScheme = "default"
+  # Themes card
+  [params.themes]
+    [params.themes.default]
+      name = "Default"
+      order = 1
+    [params.themes.claude]
+      name = "Claude"
+      order = 2
+    [params.themes.dracula]
+      name = "Dracula"
+      order = 3
+
+  # author card
+  [params.author]
+    name = "Navaneeth M S"
+    title = "Security Researcher"
+    description = "Studying and documenting my pentesting journey."
+    avatar = "https://media.licdn.com/dms/image/v2/D5603AQGpZYuzfvxcuA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1720464366895?e=1764806400&v=beta&t=37uHflMplcw99vUsI4HR1Rrf_VHRgkLfh-TVo31krZM"
+
+  # social links (used by theme)
+  [[params.author.social]]
+    name = "GitHub"
+    url = "https://github.com/navnee1h"
+    icon = "github"
+  [[params.author.social]]
+    name = "Linkedin"
+    url = "https://linkedin.com/in/navnee1h"
+    icon = "linkedin"
+  [[params.author.social]]
+    name = "Email"
+    url = "mailto:navaneethms182@gmail.com"
+    icon = "email"
+
+# menus
+[menu]
+
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 10
+    params.icon = "posts"
+
+  [[menu.main]]
+    name = "Categories"
+    url = "/categories/"
+    weight = 20
+    params.icon = "categories"
+
+  [[menu.main]]
+    name = "Archives"
+    url = "/archives/"
+    weight = 40
+    params.icon = "archive"
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 50
+    params.icon = "about"
+
