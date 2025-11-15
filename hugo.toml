@@ -37,8 +37,8 @@ defaultContentLanguageInSubdir = false
   images = ["/images/og-default.avif"]
 
   [params.logo]
-    image = "/images/logo.svg"
-    link = "/"
+    image = "myblog/images/logo.svg"
+    link = "/myblog"
 
   [params.favicon]
     svg = "/favicon.svg"
