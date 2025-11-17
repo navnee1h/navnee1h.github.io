@@ -1,4 +1,4 @@
-/*! tailwindcss v4.1.11 | MIT License | https://tailwindcss.com */
+/*! tailwindcss v4.1.17 | MIT License | https://tailwindcss.com */
 @layer properties;
 @layer theme, base, components, utilities;
 @layer theme {
@@ -234,6 +234,9 @@
   }
   ::-webkit-datetime-edit, ::-webkit-datetime-edit-year-field, ::-webkit-datetime-edit-month-field, ::-webkit-datetime-edit-day-field, ::-webkit-datetime-edit-hour-field, ::-webkit-datetime-edit-minute-field, ::-webkit-datetime-edit-second-field, ::-webkit-datetime-edit-millisecond-field, ::-webkit-datetime-edit-meridiem-field {
     padding-block: 0;
+  }
+  ::-webkit-calendar-picker-indicator {
+    line-height: 1;
   }
   :-moz-ui-invalid {
     box-shadow: none;
@@ -1719,7 +1722,7 @@
     backdrop-filter: var(--tw-backdrop-blur,) var(--tw-backdrop-brightness,) var(--tw-backdrop-contrast,) var(--tw-backdrop-grayscale,) var(--tw-backdrop-hue-rotate,) var(--tw-backdrop-invert,) var(--tw-backdrop-opacity,) var(--tw-backdrop-saturate,) var(--tw-backdrop-sepia,);
   }
   .transition {
-    transition-property: color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to, opacity, box-shadow, transform, translate, scale, rotate, filter, -webkit-backdrop-filter, backdrop-filter, display, visibility, content-visibility, overlay, pointer-events;
+    transition-property: color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to, opacity, box-shadow, transform, translate, scale, rotate, filter, -webkit-backdrop-filter, backdrop-filter, display, content-visibility, overlay, pointer-events;
     transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));
     transition-duration: var(--tw-duration, var(--default-transition-duration));
   }
@@ -2343,7 +2346,6 @@
     --color-primary: oklch(0.62 0.14 39.04);
     --color-primary-foreground: oklch(1 0 0);
     --color-secondary: oklch(0.92 0.01 92.99);
-    --color-secondary: oklch(0.92 0.01 92.99);
     --color-secondary-foreground: oklch(0.43 0.02 98.6);
     --color-accent: oklch(0.92 0.01 92.99);
     --color-accent-foreground: oklch(0.27 0.02 98.94);
@@ -2385,48 +2387,48 @@
     --color-caution: oklch(0.70 0.14 15);
   }
   [data-theme="bumblebee"] {
-    --color-primary: oklch(0.85 0.199 91.936);
-    --color-primary-foreground: oklch(0.42 0.095 57.708);
-    --color-secondary: oklch(0.75 0.183 55.934);
-    --color-secondary-foreground: oklch(0.40 0.123 38.172);
+    --color-primary: oklch(0.85 0.22 25);
+    --color-primary-foreground: oklch(0.22 0.03 25);
+    --color-secondary: oklch(0.75 0.18 30);
+    --color-secondary-foreground: oklch(0.25 0.05 20);
     --color-accent: oklch(0 0 0);
     --color-accent-foreground: oklch(1 0 0);
     --color-background: oklch(1 0 0);
-    --color-foreground: oklch(0.20 0 0);
+    --color-foreground: oklch(0.15 0 0);
     --color-muted: oklch(0.97 0 0);
-    --color-muted-foreground: oklch(0.37 0.01 67.558);
-    --color-border: oklch(0.92 0 0);
+    --color-muted-foreground: oklch(0.45 0.02 25);
+    --color-border: oklch(0.90 0 0);
     --color-card: oklch(1 0 0);
     --color-card-foreground: oklch(0.20 0 0);
     --color-popover: oklch(1 0 0);
     --color-popover-foreground: oklch(0.20 0 0);
-    --color-note: oklch(0.65 0.15 220);
+    --color-note: oklch(0.65 0.15 250);
     --color-tip: oklch(0.65 0.15 150);
-    --color-important: oklch(0.65 0.15 280);
-    --color-warning: oklch(0.65 0.15 80);
-    --color-caution: oklch(0.65 0.15 15);
+    --color-important: oklch(0.65 0.18 25);
+    --color-warning: oklch(0.75 0.20 60);
+    --color-caution: oklch(0.70 0.20 20);
   }
   [data-theme="bumblebee"].dark {
-    --color-primary: oklch(0.70 0.16 91.936);
+    --color-primary: oklch(0.70 0.20 25);
     --color-primary-foreground: oklch(0.95 0 0);
-    --color-secondary: oklch(0.45 0.15 55.934);
+    --color-secondary: oklch(0.45 0.15 30);
     --color-secondary-foreground: oklch(0.95 0 0);
     --color-accent: oklch(0.15 0 0);
     --color-accent-foreground: oklch(0.95 0 0);
     --color-background: oklch(0.12 0 0);
-    --color-foreground: oklch(0.92 0.003 48.717);
+    --color-foreground: oklch(0.92 0.003 48);
     --color-muted: oklch(0.18 0 0);
-    --color-muted-foreground: oklch(0.65 0.01 67.558);
+    --color-muted-foreground: oklch(0.70 0.02 25);
     --color-border: oklch(0.25 0 0);
     --color-card: oklch(0.15 0 0);
-    --color-card-foreground: oklch(0.92 0.003 48.717);
+    --color-card-foreground: oklch(0.92 0.003 48);
     --color-popover: oklch(0.18 0 0);
-    --color-popover-foreground: oklch(0.92 0.003 48.717);
-    --color-note: oklch(0.75 0.18 220);
+    --color-popover-foreground: oklch(0.92 0.003 48);
+    --color-note: oklch(0.75 0.18 250);
     --color-tip: oklch(0.75 0.18 150);
-    --color-important: oklch(0.75 0.18 280);
-    --color-warning: oklch(0.75 0.18 80);
-    --color-caution: oklch(0.75 0.18 15);
+    --color-important: oklch(0.78 0.20 25);
+    --color-warning: oklch(0.80 0.20 60);
+    --color-caution: oklch(0.75 0.20 20);
   }
   [data-theme="emerald"] {
     --color-primary: oklch(0.767 0.135 153.45);
@@ -3436,7 +3438,6 @@
     --tw-gradient-position: to right in oklab;
     background-image: linear-gradient(var(--tw-gradient-stops));
     --tw-gradient-from: transparent;
-    --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
     --tw-gradient-via: var(--color-border);
     --tw-gradient-via-stops: var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-via) var(--tw-gradient-via-position), var(--tw-gradient-to) var(--tw-gradient-to-position);
     --tw-gradient-stops: var(--tw-gradient-via-stops);
@@ -3773,14 +3774,10 @@
   }
   #toc-content a.active, #toc-content li.active > a {
     --tw-translate-x: calc(var(--spacing) * 0.5);
-    translate: var(--tw-translate-x) var(--tw-translate-y);
     --tw-translate-y: -1px;
     translate: var(--tw-translate-x) var(--tw-translate-y);
     scale: 1.02;
-    background-color: var(--color-primary);
-    @supports (color: color-mix(in lab, red, red)) {
-      background-color: color-mix(in oklab, var(--color-primary) 10%, transparent);
-    }
+    background-color: color-mix(in oklab, var(--color-primary) 10%, transparent);
     --tw-font-weight: var(--font-weight-medium);
     font-weight: var(--font-weight-medium);
     color: var(--color-primary);

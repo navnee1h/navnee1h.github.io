@@ -63,6 +63,9 @@ defaultContentLanguageInSubdir = false
     [params.themes.dracula]
       name = "Dracula"
       order = 3
+    [params.themes.bumblebee]
+      name = "bumblebee"
+      order = 4
 
   # author card
   [params.author]

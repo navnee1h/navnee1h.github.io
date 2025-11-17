@@ -97,52 +97,68 @@
 
 
 [data-theme="bumblebee"] {
-  --color-primary: oklch(0.85 0.199 91.936);
-  --color-primary-foreground: oklch(0.42 0.095 57.708);
-  --color-secondary: oklch(0.75 0.183 55.934);
-  --color-secondary-foreground: oklch(0.40 0.123 38.172);
-  --color-accent: oklch(0 0 0);
-  --color-accent-foreground: oklch(1 0 0);
-  --color-background: oklch(1 0 0);
-  --color-foreground: oklch(0.20 0 0);
-  --color-muted: oklch(0.97 0 0);
-  --color-muted-foreground: oklch(0.37 0.01 67.558);
-  --color-border: oklch(0.92 0 0);
-  --color-card: oklch(1 0 0);
-  --color-card-foreground: oklch(0.20 0 0);
+  --color-primary: oklch(0.85 0.22 25);              /* bright red */
+  --color-primary-foreground: oklch(0.22 0.03 25);   /* deep red text */
+  --color-secondary: oklch(0.75 0.18 30);            /* coral red */
+  --color-secondary-foreground: oklch(0.25 0.05 20); /* darker red */
+
+  --color-accent: oklch(0 0 0);                      /* black */
+  --color-accent-foreground: oklch(1 0 0);           /* white */
+
+  --color-background: oklch(1 0 0);                  /* white */
+  --color-foreground: oklch(0.15 0 0);               /* very dark gray */
+
+  --color-muted: oklch(0.97 0 0);                    /* light gray */
+  --color-muted-foreground: oklch(0.45 0.02 25);     /* muted red-gray */
+
+  --color-border: oklch(0.90 0 0);                   /* light border */
+
+  --color-card: oklch(1 0 0);                        /* white card */
+  --color-card-foreground: oklch(0.20 0 0);          /* dark gray text */
+
   --color-popover: oklch(1 0 0);
   --color-popover-foreground: oklch(0.20 0 0);
 
---color-note: oklch(0.65 0.15 220);
---color-tip: oklch(0.65 0.15 150);
---color-important: oklch(0.65 0.15 280);
---color-warning: oklch(0.65 0.15 80);
---color-caution: oklch(0.65 0.15 15);
+  /* alert colors */
+  --color-note: oklch(0.65 0.15 250);                /* blue note */
+  --color-tip: oklch(0.65 0.15 150);                 /* green tip */
+  --color-important: oklch(0.65 0.18 25);            /* strong red */
+  --color-warning: oklch(0.75 0.20 60);              /* orange-yellow */
+  --color-caution: oklch(0.70 0.20 20);              /* reddish caution */
 }
+
 
 [data-theme="bumblebee"].dark {
-  --color-primary: oklch(0.70 0.16 91.936);
-  --color-primary-foreground: oklch(0.95 0 0);
-  --color-secondary: oklch(0.45 0.15 55.934);
-  --color-secondary-foreground: oklch(0.95 0 0);
-  --color-accent: oklch(0.15 0 0);
-  --color-accent-foreground: oklch(0.95 0 0);
-  --color-background: oklch(0.12 0 0);
-  --color-foreground: oklch(0.92 0.003 48.717);
-  --color-muted: oklch(0.18 0 0);
-  --color-muted-foreground: oklch(0.65 0.01 67.558);
-  --color-border: oklch(0.25 0 0);
-  --color-card: oklch(0.15 0 0);
-  --color-card-foreground: oklch(0.92 0.003 48.717);
-  --color-popover: oklch(0.18 0 0);
-  --color-popover-foreground: oklch(0.92 0.003 48.717);
+  --color-primary: oklch(0.70 0.20 25);              /* softer red */
+  --color-primary-foreground: oklch(0.95 0 0);       /* white */
 
---color-note: oklch(0.75 0.18 220);
---color-tip: oklch(0.75 0.18 150);
---color-important: oklch(0.75 0.18 280);
---color-warning: oklch(0.75 0.18 80);
---color-caution: oklch(0.75 0.18 15);
+  --color-secondary: oklch(0.45 0.15 30);            /* deep coral */
+  --color-secondary-foreground: oklch(0.95 0 0);     /* white */
+
+  --color-accent: oklch(0.15 0 0);                   /* very dark */
+  --color-accent-foreground: oklch(0.95 0 0);        /* white */
+
+  --color-background: oklch(0.12 0 0);               /* near black */
+  --color-foreground: oklch(0.92 0.003 48);          /* light gray */
+
+  --color-muted: oklch(0.18 0 0);                    /* dark muted gray */
+  --color-muted-foreground: oklch(0.70 0.02 25);     /* muted red-gray */
+
+  --color-border: oklch(0.25 0 0);                   /* dark border */
+
+  --color-card: oklch(0.15 0 0);                     /* dark card */
+  --color-card-foreground: oklch(0.92 0.003 48);     /* light text */
+
+  --color-popover: oklch(0.18 0 0);
+  --color-popover-foreground: oklch(0.92 0.003 48);
+
+  --color-note: oklch(0.75 0.18 250);                /* blue */
+  --color-tip: oklch(0.75 0.18 150);                 /* green */
+  --color-important: oklch(0.78 0.20 25);            /* bright red */
+  --color-warning: oklch(0.80 0.20 60);              /* orange */
+  --color-caution: oklch(0.75 0.20 20);              /* red */
 }
+
 
 
 [data-theme="emerald"] {
