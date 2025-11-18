@@ -4,7 +4,7 @@ description: "Complete eJPT hands-on notes including labs, tips and practical at
 keywords: ["eJPT notes", "pentesting", "ethical hacking", "cybersecurity tutorials"]
 tags: ["eJPT", "pentesting"]
 date: 2025-01-02
-image = "cover.jpeg"  
+image: "cover.jpeg"  
 ---
 
 # image with screenshot
