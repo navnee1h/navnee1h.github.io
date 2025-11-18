@@ -1,10 +1,11 @@
-+++
-date = '2025-11-15T21:45:01+05:30'
-draft = false
-title = 'screenshot'
-description = "Short summary..."
+---
+title: "My eJPT Notes – Full Preparation Guide"
+description: "Complete eJPT hands-on notes including labs, tips and practical attack steps."
+keywords: ["eJPT notes", "pentesting", "ethical hacking", "cybersecurity tutorials"]
+tags: ["eJPT", "pentesting"]
+date: 2025-01-02
 image = "cover.jpeg"  
-+++
+---
 
 # image with screenshot
 ![Sample Image](1.png "placeholder text")
