@@ -1,11 +1,16 @@
 ---
-title: "Ejpt Passed"
-description: "Complete eJPT hands-on notes including labs, tips and practical attack steps."
-keywords: ["eJPT notes", "pentesting", "ethical hacking", "cybersecurity tutorials"]
-tags: ["eJPT", "pentesting"]
+title: "eJPT Passed — My Hands-on Notes"
 date: 2025-01-02
-image: "ejpt.webp"  
+slug: "ejpt-passed"
+description: "Hands-on eJPT notes: enumeration, privilege escalation tips, lab strategy, and study plan I used to pass the eJPT."
+tags: ["eJPT","pentesting","cybersecurity"]
+categories: ["Certification"]
+image: "cover.jpeg"
+keywords: ["eJPT notes","eLearnSecurity","pentesting guide"]
+author: "Navaneeth M S"
+draft: false
 ---
+
 
 ![Sample Image](ejpt.webp)
 

@@ -1,5 +1,5 @@
 theme = "hugo-narrow"
-baseURL = "http://navnee1h.github.io/"
+baseURL = "https://navnee1h.github.io/"
 languageCode = "en-us"
 title = "Navnee1h"
 defaultContentLanguage = "en"
@@ -30,7 +30,7 @@ defaultContentLanguageInSubdir = false
 # site params (theme-specific)
 [params]
   description = "Documenting my cybersecurity journey, pentesting notes, eJPT prep and practical tutorials."
-  keywords = ["cybersecurity", "pentesting", "eJPT", "ethical hacking", "notes","ceh preperation","quantum security","oscp","post quantum cryptography"]
+  keywords = ["cybersecurity", "pentesting", "eJPT", "ethical hacking", "notes","ceh preperation","quantum security","oscp","post quantum cryptography","navaneeth m s","navaneeth","navnee1h"]
   defaultAuthor = "Navaneeth"
   language = "en-US"
   shortName = "MyBlog"
