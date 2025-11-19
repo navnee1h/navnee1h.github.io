@@ -1,18 +1,16 @@
 ---
 title: "eJPT Passed — My Hands-on Notes"
-date: 2025-01-02
+date: 2025-01-19
 slug: "ejpt-passed"
 description: "Hands-on eJPT notes: enumeration, privilege escalation tips, lab strategy, and study plan I used to pass the eJPT."
 tags: ["eJPT","pentesting","cybersecurity"]
 categories: ["Certification"]
-image: "cover.jpeg"
+image: "cover.jpg"
 keywords: ["eJPT notes","eLearnSecurity","pentesting guide"]
 author: "Navaneeth M S"
 draft: false
 ---
 
-
-![Sample Image](ejpt.webp)
 
 Hi, I’m **Navaneeth**, a **20-year-old Cyber Forensics student**.
 
@@ -133,7 +131,7 @@ I focused only on the **current question** and didn’t read ahead.
 
 This wasted time and made me stuck for hours. The lab gives no hints — but the **questions themselves DO**.
 
-After taking a break (coffee + night ride), I came back and read all the questions properly.
+After taking a break (coffee), I came back and read all the questions properly.
 
 Everything became clearer after that.
 
