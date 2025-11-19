@@ -16,24 +16,34 @@ links:
 
 ---
 
-## Navaneeth M S
+## About
 
-### About Me
-Cyber forensics student interested in ethical hacking, digital investigations, and building security tools. I’ve worked with the Kerala Police Cyber Police Station and enjoy documenting my learning through projects, blogs, and workshops.
+> “Focused on continuous learning, real-world skills, and meaningful contributions.”
+
+I’m **Navaneeth M S**, a curious cybersecurity learner. Currently exploring everything  
+from forensics to hacking to security engineering — still choosing my favorite flavor.
+
+### Key Experience
+- • Worked with the **Kerala Police Cyber Police Station** on real investigations.  
+- • Built small tools for **password recovery** and **fraud-site detection** (because bad guys get creative).  
+- • Created projects like **Passlord** and  while experimenting and learning.
+
+---
 
 ### Certifications
-- eJPT (INE)  
-- CAP & CNSP (The SecOps Group)  
-- Google Cybersecurity Certificate  
-- Certified Cyber Security Analyst (CW Labs)
+- • **eJPT**, **CAP**, **CNSP**  
+- • **Google Cybersecurity Certificate**  
+- • **Cyber Security Analyst (CW Labs)**  
 
-### Skills
-Python, Bash, Linux, Networking, VA/PT, Web App Testing, Password Auditing  
-Tools: Metasploit, Burp Suite, Nmap, Wireshark, Netcat, PowerShell, Gobuster
+---
 
-### Projects
-Passlord • Enterprise Password Audit System • Terminal Portfolio • FM Frequency Emulator
+### Professional Interests
+- • Learning different areas of cybersecurity  
+- • Building small tools and breaking things  
+- • Exploring offensive security, forensics, and appsec  
+- • Sharing what I learn through blogs and projects
 
-### Links
-Email: navaneethms182@gmail.com  
-Portfolio • GitHub • LinkedIn
+---
+
+> “Still learning. Still exploring. Open to opportunities that help me grow.”
+

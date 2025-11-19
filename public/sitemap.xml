@@ -2,59 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-11-15T17:15:13+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/my-first-post/</loc>
-    <lastmod>2025-11-15T17:15:13+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-11-15T17:15:13+05:30</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-06-01T10:00:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/test-alert/</loc>
-    <lastmod>2025-06-01T10:00:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/old/</loc>
-    <lastmod>2025-06-01T10:00:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/old/</loc>
-    <lastmod>2025-06-01T10:00:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-06-01T10:00:00+08:00</lastmod>
+    <lastmod>2025-01-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/certification/</loc>
-    <lastmod>2025-01-02T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/cybersecurity/</loc>
-    <lastmod>2025-01-02T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/ejpt/</loc>
-    <lastmod>2025-01-02T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/ejpt-passed/</loc>
-    <lastmod>2025-01-02T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/my-ejpt-notes-full-preparation-guide/</loc>
-    <lastmod>2025-01-02T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-01-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/pentesting/</loc>
-    <lastmod>2025-01-02T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/katex-and-mermaid-test/</loc>
-    <lastmod>2024-01-16T23:30:00+08:00</lastmod>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/image-rendering-test/</loc>
-    <lastmod>2024-01-16T22:30:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/code-highlighting-test/</loc>
-    <lastmod>2024-01-16T10:00:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/markdown-syntax-test-document/</loc>
-    <lastmod>2024-01-15T10:00:00+08:00</lastmod>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-01-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
     <lastmod>2024-01-01T00:00:00+08:00</lastmod>

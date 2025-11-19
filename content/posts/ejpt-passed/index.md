@@ -1,8 +1,8 @@
 ---
-title: "eJPT Passed — My Hands-on Notes"
+title: "How I Passed the eJPT: Simple Hands-On Guide"
 date: 2025-01-19
 slug: "ejpt-passed"
-description: "Hands-on eJPT notes: enumeration, privilege escalation tips, lab strategy, and study plan I used to pass the eJPT."
+description: "A quick and beginner friendly summary of how I prepared for and passed the eJPT exam, with practical tips and hands-on insights."
 tags: ["eJPT","pentesting","cybersecurity"]
 categories: ["Certification"]
 image: "cover.jpg"
@@ -207,5 +207,7 @@ This blog is written for two reasons:
     
 
 Good luck with your preparation!
+
+![Image description](ejpt-certification.png)
 
 **#eJPT #CyberSecurity #PenetrationTesting #InfoSec #EthicalHacking #Certification #eJPTexperience**
