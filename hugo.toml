@@ -126,4 +126,9 @@ defaultContentLanguageInSubdir = false
 
 [services]
   [services.googleAnalytics]
-    id = 'G-7SM0DFG7FG'
+    id = "G-7SM0DFG7FG"
+
+[privacy]
+  [privacy.googleAnalytics]
+    disable = false
+    respectDoNotTrack = false
