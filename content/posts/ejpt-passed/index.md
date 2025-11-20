@@ -1,6 +1,6 @@
 ---
 title: "How I Passed the eJPT: Simple Hands-On Guide"
-date: 2025-01-19
+date: 2025-09-13
 slug: "ejpt-passed"
 description: "A quick and beginner friendly summary of how I prepared for and passed the eJPT exam, with practical tips and hands-on insights."
 tags: ["eJPT","pentesting","cybersecurity"]

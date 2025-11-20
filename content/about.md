@@ -18,32 +18,32 @@ links:
 
 ## About
 
-> “Focused on continuous learning, real-world skills, and meaningful contributions.”
+> Focused on continuous learning, real-world skills, and meaningful contributions.
 
 I’m **Navaneeth M S**, a curious cybersecurity learner. Currently exploring everything  
 from forensics to hacking to security engineering — still choosing my favorite flavor.
 
 ### Key Experience
-- • Worked with the **Kerala Police Cyber Police Station** on real investigations.  
-- • Built small tools for **password recovery** and **fraud-site detection** (because bad guys get creative).  
-- • Created projects like **Passlord** and  while experimenting and learning.
+- Worked with the **Kerala Police Cyber Police Station** on real investigations.  
+- Built small tools for **password recovery** and **fraud-site detection** (because bad guys get creative).  
+- Created projects like **Passlord** and  while experimenting and learning.
 
 ---
 
 ### Certifications
-- • **eJPT**, **CAP**, **CNSP**  
-- • **Google Cybersecurity Certificate**  
-- • **Cyber Security Analyst (CW Labs)**  
+- **eJPT**, **CAP**, **CNSP**  
+- **Google Cybersecurity Certificate**  
+- **Cyber Security Analyst (CWL)**  
 
 ---
 
 ### Professional Interests
-- • Learning different areas of cybersecurity  
-- • Building small tools and breaking things  
-- • Exploring offensive security, forensics, and appsec  
-- • Sharing what I learn through blogs and projects
+- Learning different areas of cybersecurity  
+- Building small tools and breaking things  
+- Exploring offensive security, forensics, and appsec  
+- Sharing what I learn through blogs and projects
 
 ---
 
-> “Still learning. Still exploring. Open to opportunities that help me grow.”
+> Still learning. Still exploring. Open to opportunities that help me grow.
 
