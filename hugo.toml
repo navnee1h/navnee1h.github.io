@@ -29,12 +29,12 @@ defaultContentLanguageInSubdir = false
 
 # site params (theme-specific)
 [params]
-  description = "Documenting my cybersecurity journey, pentesting notes, eJPT prep and practical tutorials."
+  description = "Documenting my cybersecurity journey, pentesting notes."
   keywords = ["cybersecurity", "pentesting", "eJPT", "ethical hacking", "notes","ceh preperation","quantum security","oscp","post quantum cryptography","navaneeth m s","navaneeth","navnee1h"]
   defaultAuthor = "Navaneeth"
   language = "en-US"
   shortName = "MyBlog"
-  images = ["/images/Navaneeth m s.png"]
+  images = ["/images/Navaneeth-ms.png"]
 
   [params.logo]
     image = "https://media.licdn.com/dms/image/v2/D5603AQGpZYuzfvxcuA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1720464366895?e=1764806400&v=beta&t=37uHflMplcw99vUsI4HR1Rrf_VHRgkLfh-TVo31krZM"
