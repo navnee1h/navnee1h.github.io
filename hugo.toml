@@ -34,7 +34,7 @@ defaultContentLanguageInSubdir = false
   defaultAuthor = "Navaneeth"
   language = "en-US"
   shortName = "MyBlog"
-  images = ["/images/Navaneeth-ms.png"]
+  images = ["/images/Navaneeth-m-s.avif"]
 
   [params.logo]
     image = "https://media.licdn.com/dms/image/v2/D5603AQGpZYuzfvxcuA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1720464366895?e=1764806400&v=beta&t=37uHflMplcw99vUsI4HR1Rrf_VHRgkLfh-TVo31krZM"
