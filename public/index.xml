@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Navnee1h</title>
-    <link>https://navnee1h.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Home on Navnee1h</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Sat, 13 Sep 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://navnee1h.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How I Passed the eJPT: Simple Hands-On Guide</title>
-      <link>https://navnee1h.github.io/posts/ejpt-passed/</link>
+      <link>http://localhost:1313/posts/ejpt-passed/</link>
       <pubDate>Sat, 13 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://navnee1h.github.io/posts/ejpt-passed/</guid>
+      <guid>http://localhost:1313/posts/ejpt-passed/</guid>
       <description>&lt;p&gt;Hi, I’m &lt;strong&gt;Navaneeth&lt;/strong&gt;, a &lt;strong&gt;20-year-old Cyber Forensics student&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;In this post, I’ll be sharing my journey to successfully completing the &lt;strong&gt;eJPT (eLearnSecurity Junior Penetration Tester)&lt;/strong&gt; exam. There are many write-ups available online, but this one is different — I am writing this on the &lt;strong&gt;same day I completed the exam&lt;/strong&gt;, so everything is still fresh in my mind.&lt;/p&gt;&#xA;&lt;p&gt;This post will be long, but if you are preparing for the eJPT or want to know what the exam &lt;em&gt;really&lt;/em&gt; feels like, it’s worth reading.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>https://navnee1h.github.io/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0800</pubDate>
-      <guid>https://navnee1h.github.io/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;&#xA;&#xA;  &lt;blockquote&#xA;    class=&#34;border-primary bg-muted/30 hover:bg-muted/40 my-6 rounded-r-lg border-l-4 py-4 pr-4 pl-6 italic transition-all duration-200 ease-out hover:translate-x-1&#34;&gt;&#xA;    &lt;div class=&#34;prose prose-sm max-w-none&#34;&gt;&#xA;      &lt;p&gt;Focused on continuous learning, real-world skills, and meaningful contributions.&lt;/p&gt;&#xA;&#xA;    &lt;/div&gt;&#xA;  &lt;/blockquote&gt;&lt;script&gt;&#xA;function toggleAlert(alertId) {&#xA;  const content = document.getElementById(alertId + &#39;-content&#39;);&#xA;  const chevron = document.getElementById(alertId + &#39;-chevron&#39;);&#xA;  const header = content.previousElementSibling;&#xA;  &#xA;  if (content.classList.contains(&#39;hidden&#39;)) {&#xA;    content.classList.remove(&#39;hidden&#39;);&#xA;    chevron.style.transform = &#39;rotate(0deg)&#39;;&#xA;    header.setAttribute(&#39;aria-expanded&#39;, &#39;true&#39;);&#xA;  } else {&#xA;    content.classList.add(&#39;hidden&#39;);&#xA;    chevron.style.transform = &#39;rotate(-90deg)&#39;;&#xA;    header.setAttribute(&#39;aria-expanded&#39;, &#39;false&#39;);&#xA;  }&#xA;}&#xA;&#xA;&#xA;document.addEventListener(&#39;DOMContentLoaded&#39;, function() {&#xA;  const collapsedAlerts = document.querySelectorAll(&#39;.alert-content.hidden&#39;);&#xA;  collapsedAlerts.forEach(function(content) {&#xA;    const alertId = content.id.replace(&#39;-content&#39;, &#39;&#39;);&#xA;    const chevron = document.getElementById(alertId + &#39;-chevron&#39;);&#xA;    if (chevron) {&#xA;      chevron.style.transform = &#39;rotate(-90deg)&#39;;&#xA;    }&#xA;  });&#xA;});&#xA;&lt;/script&gt;&#xA;&#xA;&lt;p&gt;I’m &lt;strong&gt;Navaneeth M S&lt;/strong&gt;, a curious cybersecurity learner. Currently exploring everything&lt;br&gt;&#xA;from forensics to hacking to security engineering — still choosing my favorite flavor.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Archives on Navnee1h</title>
-    <link>https://navnee1h.github.io/archives/</link>
+    <link>http://localhost:1313/archives/</link>
     <description>Recent content in Archives on Navnee1h</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <atom:link href="https://navnee1h.github.io/archives/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/archives/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

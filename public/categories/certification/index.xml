@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Certification on Navnee1h</title>
-    <link>https://navnee1h.github.io/categories/certification/</link>
+    <link>http://localhost:1313/categories/certification/</link>
     <description>Recent content in Certification on Navnee1h</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Sat, 13 Sep 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://navnee1h.github.io/categories/certification/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/certification/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How I Passed the eJPT: Simple Hands-On Guide</title>
-      <link>https://navnee1h.github.io/posts/ejpt-passed/</link>
+      <link>http://localhost:1313/posts/ejpt-passed/</link>
       <pubDate>Sat, 13 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://navnee1h.github.io/posts/ejpt-passed/</guid>
+      <guid>http://localhost:1313/posts/ejpt-passed/</guid>
       <description>&lt;p&gt;Hi, I’m &lt;strong&gt;Navaneeth&lt;/strong&gt;, a &lt;strong&gt;20-year-old Cyber Forensics student&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;In this post, I’ll be sharing my journey to successfully completing the &lt;strong&gt;eJPT (eLearnSecurity Junior Penetration Tester)&lt;/strong&gt; exam. There are many write-ups available online, but this one is different — I am writing this on the &lt;strong&gt;same day I completed the exam&lt;/strong&gt;, so everything is still fresh in my mind.&lt;/p&gt;&#xA;&lt;p&gt;This post will be long, but if you are preparing for the eJPT or want to know what the exam &lt;em&gt;really&lt;/em&gt; feels like, it’s worth reading.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Navnee1h</title>
-    <link>https://navnee1h.github.io/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Navnee1h</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Sat, 13 Sep 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://navnee1h.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cybersecurity</title>
-      <link>https://navnee1h.github.io/tags/cybersecurity/</link>
+      <link>http://localhost:1313/tags/cybersecurity/</link>
       <pubDate>Sat, 13 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://navnee1h.github.io/tags/cybersecurity/</guid>
+      <guid>http://localhost:1313/tags/cybersecurity/</guid>
       <description></description>
     </item>
     <item>
       <title>EJPT</title>
-      <link>https://navnee1h.github.io/tags/ejpt/</link>
+      <link>http://localhost:1313/tags/ejpt/</link>
       <pubDate>Sat, 13 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://navnee1h.github.io/tags/ejpt/</guid>
+      <guid>http://localhost:1313/tags/ejpt/</guid>
       <description></description>
     </item>
     <item>
       <title>Pentesting</title>
-      <link>https://navnee1h.github.io/tags/pentesting/</link>
+      <link>http://localhost:1313/tags/pentesting/</link>
       <pubDate>Sat, 13 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://navnee1h.github.io/tags/pentesting/</guid>
+      <guid>http://localhost:1313/tags/pentesting/</guid>
       <description></description>
     </item>
   </channel>
