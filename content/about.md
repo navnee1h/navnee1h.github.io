@@ -6,7 +6,7 @@ date: 2024-01-01T00:00:00+08:00
 links:
   - name: "Navaneeth M S"
     url: "https://linkedin.com/in/navnee1h"
-    icon: "https://media.licdn.com/dms/image/v2/D5603AQGpZYuzfvxcuA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1720464366895?e=1764806400&v=beta&t=37uHflMplcw99vUsI4HR1Rrf_VHRgkLfh-TVo31krZM"
+    icon: "https://raw.githubusercontent.com/navnee1h/navnee1h.github.io/refs/heads/main/public/images/profile.jpg"
     description: "Security Researcher"
   - name: "GitHub"
     url: "https://github.com/navnee1h"
