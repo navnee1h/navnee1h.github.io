@@ -16,7 +16,7 @@ Hi, I’m **Navaneeth**, a 20 years old Cyber Forensics student.
 
 My ultimate goal is to study about the invisible watermark for media. 
 
-Today, I finally started that journey by learning the basics of image processing. I am writing this at **10:30 PM** from [Tinkerspace, Kochi](https://tinkerhub.org/tinkerspace) and I want to exactly what I studied today.
+Today, I finally started that journey by learning the basics of image processing. I am writing this at **10:30 PM** from [Tinkerspace, Kochi](https://tinkerhub.org/tinkerspace)  and I want to exactly what I studied today.
 ![Image description](tinker.jpg)
 
 ---
@@ -97,8 +97,7 @@ The hidden data gets scrambled or deleted if we
 - Take a screenshot.
 - Convert the file from PNG to JPG.
 
-#### That’s why steganography won’t work if the encoded image is created or taken from another device, or if the image is modified. This is why the original image must be sent without any loss.
-
+#### Steganography only works if the image stays exactly the same, hidden msg is destroyed when edited,resized or compressed.So the original image must be sent without any changes.
 
 My ultimate goal is to create an **invisible watermark** that stays there even if someone takes a photo of the screen with a camera. LSB simply cannot do that.
 
