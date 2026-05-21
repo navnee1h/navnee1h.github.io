@@ -11,7 +11,6 @@ author: "Navaneeth M S"
 draft: false
 ---
 
-
 Hi, I’m **Navaneeth**, a 20 years old Cyber Forensics student.
 
 My ultimate goal is to study about the invisible watermark for media. 
@@ -26,7 +25,6 @@ Today, I finally started that journey by learning the basics of image processing
 I started with the most basic question, How are images actually made? I watched some videos to understand that computers don't see colors, they only see numbers.
 
 {{< youtube wsFROq2jVSQ >}}
-
 
 To see this in real life, I used Python and OpenCV. When I loaded an image, the code showed me that a picture is just a giant grid of numbers.
 
@@ -65,7 +63,6 @@ Human eyes:
 - 👁️ **Most sensitive** → Green
 - 👁️ Medium → Red
 - 👁️ **Least sensitive** → Blue
-    
 
 So if we slightly change:
 - Green → very noticeable ❌
@@ -108,4 +105,3 @@ My ultimate goal is to create an **invisible watermark** that stays there even i
 Today was just the start. To master this I need to focus on the **frequency domain** of image processing. Instead of changing pixels, I need to look at the math behind the whole image structure.
 
 It’s late here, but I’m excited for tomorrow.
-

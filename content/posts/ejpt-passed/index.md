@@ -11,7 +11,6 @@ author: "Navaneeth M S"
 draft: false
 ---
 
-
 Hi, I’m **Navaneeth**, a **20-year-old Cyber Forensics student**.
 
 In this post, I’ll be sharing my journey to successfully completing the **eJPT (eLearnSecurity Junior Penetration Tester)** exam. There are many write-ups available online, but this one is different — I am writing this on the **same day I completed the exam**, so everything is still fresh in my mind.
@@ -27,28 +26,18 @@ The **eJPT** (Junior Penetration Tester) is an entry-level penetration testing c
 It focuses on real-world pentesting scenarios, covering:
 
 - Assessment Methodologies
-    
 - Host & Network Auditing
-    
 - Penetration Testing
-    
 - Web Application Testing
-    
 
 ### **📌 Exam Information**
 
 - **Questions:** 35 (including flags)
-    
 - **Passing Score:** 70% (25/35)
-    
 - **Exam Type:** Open-book
-    
 - **Delivery:** Online, start any time
-    
 - **Duration:** 48 hours
-    
 - **Report:** Not required — just answer questions and provide flags
-    
 
 ---
 
@@ -57,9 +46,7 @@ It focuses on real-world pentesting scenarios, covering:
 I purchased the eJPT exam vouchers on **August 17, 2025**, during an offer, for **$125**. This included:
 
 - 3 months of **eJPT Fundamentals**
-    
 - 2 exam vouchers
-    
 
 With college going on, I managed to set aside just **1.5 hours per day** initially. But during my study leave, I pushed myself to complete the entire learning material.
 
@@ -67,13 +54,9 @@ I completed the **first 30%** of the learning path in **40 days**, and the remai
 The course includes:
 
 - Video content
-    
 - MCQs
-    
 - Labs
-    
 - A CTF
-    
 
 ### ✔️ The Best Decision I Made
 
@@ -170,21 +153,13 @@ It helps. I did it multiple times.
 Here’s what you can expect, _without revealing exam content_:
 
 - You must **find the hosts** — no IPs are provided
-    
 - Enumeration is crucial
-    
 - There are both **Linux and Windows machines**
-    
 - You will need to find vulnerabilities and exploit them
-    
 - Privilege escalation is required
-    
 - You may need to crack hashes
-    
 - The correct wordlists are important
-    
 - The questions offer hints — pay attention to them
-    
 
 This is the part nobody explained properly in other write-ups, and it’s what will help you pass.
 
@@ -202,9 +177,7 @@ I completed the exam in **25 hours**, including breaks, chatting with friends, a
 This blog is written for two reasons:
 
 1. To document my own journey
-    
 2. To help anyone preparing for the exam
-    
 
 Good luck with your preparation!
 

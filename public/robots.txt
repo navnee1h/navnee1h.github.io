@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://navnee1h.github.io/sitemap.xml
-Host: https://navnee1h.github.io/
