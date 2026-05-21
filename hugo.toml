@@ -37,7 +37,7 @@ defaultContentLanguageInSubdir = false
   images = ["/images/Navaneeth-m-s.avif"]
 
   [params.logo]
-    image = "https://raw.githubusercontent.com/navnee1h/navnee1h.github.io/refs/heads/main/public/images/profile.jpg"
+    image = "https://avatars.githubusercontent.com/u/95498140"
     link = ""     # This becomes https://navnee1h.github.io/myblog/ automatically
 
   [params.favicon]
@@ -72,7 +72,7 @@ defaultContentLanguageInSubdir = false
     name = "Navaneeth M S"
     title = "Security Researcher"
     description = "Studying and documenting my journey."
-    avatar = "https://raw.githubusercontent.com/navnee1h/navnee1h.github.io/refs/heads/main/public/images/profile.jpg"
+    avatar = "https://avatars.githubusercontent.com/u/95498140"
 
   # social links (used by theme)
   [[params.author.social]]
